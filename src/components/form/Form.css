@@ -1,0 +1,27 @@
+.form {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.form input {
+  width: 80%;
+  border-radius: 10px 0px 0px 10px;
+  height: 30px;
+  border: none;
+  outline: none;
+}
+.form button {
+  border-radius: 0px 10px 10px 0px;
+  color: white;
+  background-color: rgb(109, 196, 92);
+  cursor: pointer;
+  font-size: 15px;
+  padding: 6;
+  border: none;
+  height: 32px;
+}
+
+.form button:hover {
+  background-color: rgb(72, 138, 58);
+}
