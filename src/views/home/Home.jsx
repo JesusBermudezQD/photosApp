@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Form from "../../components/form/form";
+import Form from "../../components/form/Form";
 import "./Home.css";
 
 const Home = () => {
